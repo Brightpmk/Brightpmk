@@ -1,24 +1,20 @@
-# Hi there 👋
+# Hi, I'm Thummachart 👋
 
-I'm Bright — a Computer Engineering student who loves building things and learning new technologies.  
-Right now, I'm focusing on improving my fundamentals, exploring different areas in tech, and building small projects at my own pace.
+I'm a first-year Computer Engineering student with a strong interest in **data analytics** and **data engineering**.
 
-### 🌱 Currently Learning
-- Programming fundamentals  
-- Problem solving and algorithms  
-- Exploring cloud, data, and AI concepts  
+## What I'm focusing on
+- Building foundational skills in **SQL** and **Python**
+- Practicing **data analysis** through small personal projects
+- Learning how data systems work and planning to explore **cloud technologies** in the future
 
-### 📘 What I'm Doing Here
-- Sharing my learning journey  
-- Keeping notes, practice code, and experiments  
-- Building small projects as I grow  
+## Projects
+- **Simple Data Analysis Project** – practicing data cleaning, SQL queries, and basic insights
+- **DiscreteTutor** – academic web project involving MongoDB and cloud deployment
 
-### ✨ My Goals
-- Become better every day  
-- Understand technology deeply  
-- Build projects that I'm proud of  
+## Currently learning
+- Python for data analysis
+- SQL and database fundamentals
+- Cloud basics (AWS, deployment concepts)
 
----
-
-Thanks for visiting my GitHub!  
-Feel free to follow my journey 🚀
+## Long-term goal
+To grow as a data-focused engineer and further develop cloud skills to build scalable, data-driven systems.

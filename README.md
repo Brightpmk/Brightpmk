@@ -1,20 +1,42 @@
 # Hi, I'm Thummachart 👋
 
-I'm a first-year Computer Engineering student with a strong interest in **data analytics** and **data engineering**.
+Computer Engineering student focused on **data analytics and data engineering**.  
+I build structured data workflows using Python and SQL, and I am actively developing skills in scalable data systems and cloud infrastructure.
 
-## What I'm focusing on
-- Building foundational skills in **SQL** and **Python**
-- Practicing **data analysis** through small personal projects
-- Learning how data systems work and planning to explore **cloud technologies** in the future
+---
 
-## Projects
-- **Simple Data Analysis Project** – practicing data cleaning, SQL queries, and basic insights
-- **DiscreteTutor** – academic web project involving MongoDB and cloud deployment
+## 🔎 Technical Focus
+- Writing advanced SQL queries (CTEs, window functions, subqueries)
+- Data cleaning and transformation using Python (Pandas)
+- Building structured analytical datasets from relational schemas
+- Understanding data pipelines and backend data systems
+- Exploring cloud deployment (AWS EC2, Linux environment)
 
-## Currently learning
-- Python for data analysis
-- SQL and database fundamentals
-- Cloud basics (AWS, deployment concepts)
+---
 
-## Long-term goal
-To grow as a data-focused engineer and further develop cloud skills to build scalable, data-driven systems.
+## 📊 Selected Projects
+
+### E-commerce Customer Behavior & Revenue Analysis
+- Processed 100,000+ rows across 7 relational tables
+- Built analytical datasets using PostgreSQL and Python
+- Applied CTEs and window functions to compute revenue concentration metrics
+- Identified top 10 categories contributing ~62% of total revenue
+- Created data visualizations to communicate KPI-driven insights
+
+### DiscreteTutor (AI-powered Web Application)
+- Integrated MongoDB for data storage and CRUD operations
+- Deployed and configured application on AWS EC2 (Ubuntu)
+- Managed environment setup and server configuration
+
+---
+
+## 🚀 Currently Learning & Expanding Into
+- Advanced SQL optimization and indexing strategies
+- Data pipeline architecture concepts
+- Cloud fundamentals and scalable deployment practices
+- Business Intelligence tools (Power BI, Tableau) for interactive dashboarding and reporting
+
+---
+
+## 🎯 Long-Term Goal
+To become a data-focused engineer capable of designing scalable data pipelines, cloud-based analytical systems, and data-driven decision platforms.

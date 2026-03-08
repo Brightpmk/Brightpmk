@@ -1,113 +1,106 @@
-<!-- Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Thummachart+Kub;Data+Analytics+%7C+Data+Engineering;Building+Data+Pipelines+%26+AI+Analytics+Systems" />
-</p>
+# Hi, I'm Thummachart Kub
 
-<p align="center">
-  Computer Engineering student focused on <b>Data Analytics</b> and <b>Data Engineering</b>.<br>
-  I design structured data workflows using <b>Python</b> and <b>SQL</b>, build <b>ETL pipelines</b>, and develop <b>AI-powered analytics systems</b>.
-</p>
+Computer Engineering student focused on **Data Analytics and Data Engineering**.
+
+I enjoy designing structured data workflows using **Python and SQL**, building **ETL pipelines**, and developing **analytics systems powered by modern data tools and AI**.
+
+My goal is to deepen my understanding of **data pipelines, analytical systems, and scalable data infrastructure**.
 
 ---
 
-# 🧰 Tech Stack
+# 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Data%20Engineering-blue"/>
-  <img src="https://img.shields.io/badge/SQL-Analytics-orange"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue"/>
-  <img src="https://img.shields.io/badge/SQLite-Database-lightgrey"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-green"/>
-  <img src="https://img.shields.io/badge/Streamlit-Data%20Apps-red"/>
-  <img src="https://img.shields.io/badge/Plotly-Visualization-purple"/>
-  <img src="https://img.shields.io/badge/LLM-AI%20Analytics-darkviolet"/>
-</p>
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Data%20Apps-red)
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-purple)
 
-Core areas I work with:
+Core technologies I work with:
 
-- Python data processing (Pandas)
-- Advanced SQL queries (CTEs, window functions)
+- Python (Pandas, data processing)
+- SQL (CTEs, window functions, analytical queries)
+- PostgreSQL / SQLite
 - ETL pipeline development
 - Relational schema design
-- Analytics system development
-- Data visualization & insights
+- Interactive analytics applications
 
 ---
 
 # 📊 Featured Projects
 
-## 🤖 AI Analytics Assistant for E-commerce
+## AI Analytics Assistant for E-commerce
 
-AI-powered analytics application that converts **natural language questions into SQL queries**, executes them safely, and returns **charts and business insights**.
+AI-powered analytics application that converts **natural language questions into SQL queries** and generates charts and business insights.
 
 Key highlights:
 
-- Built **NL-to-SQL system using LLMs**
-- Implemented **SQL safety validation layer**
-- Generated **automatic data visualization**
-- Built interactive **Streamlit analytics interface**
+- Built a **natural-language-to-SQL system using LLMs**
+- Implemented **SQL safety validation**
+- Built an interactive **Streamlit analytics interface**
+- Generated automated **data visualizations and insights**
 
 Tech stack:
 
-`Python` · `PostgreSQL` · `Streamlit` · `OpenAI` · `SQLAlchemy` · `Plotly`
+Python · PostgreSQL · Streamlit · OpenAI · SQLAlchemy · Plotly
 
-Repository:
-
+Repository:  
 https://github.com/Brightpmk/ecommerce-ai-analytics-assistant
 
 ---
 
-## ⚙️ Olist E-commerce ETL Pipeline
+## Olist E-commerce ETL Pipeline
 
-Designed and implemented a **modular ETL pipeline** for relational e-commerce datasets.
+Designed a modular **ETL pipeline** that processes relational e-commerce datasets.
 
 Key highlights:
 
 - Extracted data from **8 relational datasets (100k+ records)**
-- Implemented **data cleaning and validation**
-- Loaded structured tables into **SQLite analytics database**
-- Built analytical **fact table (fact_order_item_sales)**
+- Performed **data cleaning and validation**
+- Loaded datasets into **SQLite**
+- Built analytical **fact table (`fact_order_item_sales`)**
 
 Tech stack:
 
-`Python` · `Pandas` · `SQL` · `SQLite`
+Python · Pandas · SQL · SQLite
 
-Repository:
-
+Repository:  
 https://github.com/Brightpmk/olist-etl-pipeline
 
 ---
 
-## 📈 Olist E-commerce Data Analysis
+## Olist E-commerce Data Analysis
 
-Exploratory data analysis investigating **revenue trends, logistics performance, and customer behavior**.
+Exploratory data analysis project focused on **revenue trends, logistics performance, and customer behavior**.
 
 Key highlights:
 
 - Processed **100k+ transaction records**
 - Built analytical datasets using **SQL and Python**
-- Identified **category revenue concentration patterns**
-- Created **business insight visualizations**
+- Created visualizations to analyze **marketplace performance**
+- Identified revenue concentration patterns across product categories
 
 Tech stack:
 
-`Python` · `Pandas` · `SQL` · `Matplotlib` · `Jupyter`
+Python · Pandas · SQL · Matplotlib · Jupyter Notebook
 
-Repository:
-
+Repository:  
 https://github.com/Brightpmk/Basic_data-analysis-project_00
 
 ---
 
 # 🔎 Technical Focus
 
-Currently strengthening:
+Areas I am currently strengthening:
 
-- Advanced SQL analytics
+- Advanced SQL querying
+- Data transformation using Pandas
 - ETL pipeline architecture
-- Data transformation workflows
 - Relational schema design
-- AI-assisted analytics tools
+- Backend data workflows
+- AI-assisted analytics systems
 
 ---
 
@@ -121,42 +114,12 @@ Currently strengthening:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brightpmk&show_icons=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightpmk&layout=compact"/>
-</p>
-
----
-
 # 📉 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brightpmk"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Brightpmk/Brightpmk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 📬 Contact
-
-- GitHub: https://github.com/Brightpmk
-- Email: (add if you want)
-- LinkedIn: (optional)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brightpmk)
 
 ---
 
 # 🎯 Long-Term Goal
 
-To become a **data-focused engineer** capable of designing scalable **data pipelines, analytics systems, and AI-driven data platforms** that support real-world decision making.
+To become a **data-focused engineer** capable of designing scalable **data pipelines, analytics systems, and AI-driven data platforms**.

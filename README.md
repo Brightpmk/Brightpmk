@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Thummachart+Kub;Data+Analytics+%7C+Data+Engineering;Building+Data+Pipelines+%26+AI+Analytics+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Thummachart+Kub;Data+Analytics+%7C+Data+Engineering" />
 </p>
 
 <p align="center">

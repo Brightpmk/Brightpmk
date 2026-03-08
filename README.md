@@ -1,51 +1,115 @@
-# Hi, I'm Thummachart Kub
+# Hi, I'm Thummachart Kub 👋
 
-Computer Engineering student focused on **data analytics and data engineering**.  
-I design structured data workflows using Python and SQL, and I am actively building skills in scalable data systems and cloud-based infrastructure.
+Computer Engineering student focused on **Data Analytics and Data Engineering**.
 
----
+I enjoy designing structured data workflows using **Python and SQL**, building **ETL pipelines**, and developing **analytics systems powered by modern data tools and AI**.
 
-## 🔎 Technical Focus
-
-- Writing advanced SQL queries (CTEs, window functions, subqueries)
-- Data cleaning and transformation using Python (Pandas)
-- Designing ETL pipelines and structured analytical datasets
-- Relational schema design and data modeling
-- Understanding backend data systems and data workflow automation
-- Exploring cloud deployment (AWS EC2, Linux environment)
+My current goal is to deepen my understanding of **data pipelines, analytical systems, and scalable data infrastructure**.
 
 ---
 
-## 📊 Selected Projects
+# 🛠 Tech Stack
 
-### Olist E-commerce ETL Pipeline (Data Engineering Project)
-- Designed and implemented an end-to-end ETL pipeline using Python
-- Extracted data from 8 relational CSV datasets (100,000+ records)
-- Performed data validation, transformation, and schema standardization
-- Loaded cleaned datasets into SQLite with enforced primary and foreign key constraints
-- Built an analytical fact table (`fact_order_item_sales`) for revenue analysis
-- Implemented logging and validation to ensure data integrity
-- Structured the project using modular architecture (extract / transform / load separation)
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Data%20Apps-red)
+![OpenAI](https://img.shields.io/badge/LLM-AI%20Systems-purple)
 
-### E-commerce Customer Behavior & Revenue Analysis
-- Processed 100,000+ rows across 7 relational tables
-- Built analytical datasets using PostgreSQL and Python
-- Applied CTEs and window functions to compute revenue concentration metrics
-- Identified top 10 categories contributing ~62% of total revenue
-- Created data visualizations to communicate KPI-driven insights
+Core tools I work with:
+
+- **Python (Pandas, data processing)**
+- **SQL (CTEs, window functions, analytical queries)**
+- **PostgreSQL / SQLite**
+- **ETL pipeline development**
+- **Data modeling and relational schema design**
+- **Interactive analytics applications**
 
 ---
 
-## 🚀 Currently Learning & Expanding Into
+# 📊 Featured Projects
 
-- Incremental data loading strategies
+## AI Analytics Assistant for E-commerce
+AI-powered analytics application that converts **natural language questions into SQL queries** and generates visual insights.
+
+Key highlights:
+
+- Built a **natural-language-to-SQL system using LLMs**
+- Implemented **SQL safety validation**
+- Generated automatic **charts and business insights**
+- Built an interactive **Streamlit analytics interface**
+
+Tech stack:
+
+Python · PostgreSQL · Streamlit · OpenAI · SQLAlchemy · Plotly
+
+---
+
+## Olist E-commerce ETL Pipeline
+Designed a modular **ETL pipeline** that processes relational e-commerce data.
+
+Key highlights:
+
+- Extracted data from **8 relational datasets (100k+ records)**
+- Performed **data cleaning and validation**
+- Loaded structured tables into **SQLite**
+- Built an analytical **fact table (`fact_order_item_sales`)**
+- Implemented **logging and pipeline validation**
+
+Tech stack:
+
+Python · Pandas · SQL · SQLite
+
+---
+
+## Olist E-commerce Data Analysis
+Exploratory data analysis project investigating **revenue trends, logistics performance, and customer behavior**.
+
+Key highlights:
+
+- Processed **100k+ transaction records**
+- Built analytical datasets using **SQL and Python**
+- Created visualizations to analyze **marketplace performance**
+- Identified category revenue concentration patterns
+
+Tech stack:
+
+Python · Pandas · SQL · Matplotlib · Jupyter Notebook
+
+---
+
+# 🔎 Technical Focus
+
+Areas I am currently strengthening:
+
+- Advanced SQL querying (CTEs, window functions)
+- Data transformation with Pandas
+- ETL pipeline architecture
+- Relational schema design
+- Backend data workflows
+- AI-assisted analytics systems
+
+---
+
+# 🚀 Currently Learning
+
 - Data warehouse design (fact & dimension modeling)
-- SQL optimization and indexing strategies
-- Cloud fundamentals and scalable deployment practices
-- Workflow orchestration concepts (e.g., Airflow)
+- Incremental data loading strategies
+- SQL performance optimization
+- Workflow orchestration concepts (Airflow)
+- Cloud fundamentals (AWS, Linux environments)
 
 ---
 
-## 🎯 Long-Term Goal
+# 📈 GitHub Stats
 
-To become a data-focused engineer capable of designing scalable data pipelines, cloud-based analytical systems, and reliable data-driven platforms.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brightpmk&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brightpmk&layout=compact)
+
+---
+
+# 🎯 Long-Term Goal
+
+To become a **data-focused engineer** capable of designing scalable **data pipelines, analytics systems, and AI-driven data platforms**.

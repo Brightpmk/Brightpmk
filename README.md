@@ -102,11 +102,11 @@ Areas I am currently strengthening:
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brightpmk&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brightpmk&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brightpmk&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brightpmk&layout=compact&theme=tokyonight)
 
 ---
 

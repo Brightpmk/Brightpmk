@@ -1,10 +1,12 @@
-# Hi, I'm Thummachart Kub
+<!-- Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Thummachart+Kub;Data+Analytics+%7C+Data+Engineering;Building+Data+Pipelines+%26+AI+Analytics+Systems" />
+</p>
 
-Computer Engineering student focused on **Data Analytics and Data Engineering**.
-
-I enjoy designing structured data workflows using **Python and SQL**, building **ETL pipelines**, and developing **analytics systems powered by modern data tools and AI**.
-
-My goal is to deepen my understanding of **data pipelines, analytical systems, and scalable data infrastructure**.
+<p align="center">
+  Computer Engineering student focused on <b>Data Analytics</b> and <b>Data Engineering</b>.<br>
+  I design structured data workflows using <b>Python</b> and <b>SQL</b>, build <b>ETL pipelines</b>, and develop <b>AI-powered analytics systems</b>.
+</p>
 
 ---
 

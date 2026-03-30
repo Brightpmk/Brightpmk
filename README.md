@@ -125,3 +125,18 @@ Areas I am currently strengthening:
 # 🎯 Long-Term Goal
 
 To become a **data-focused engineer** capable of designing scalable **data pipelines, analytics systems, and AI-driven data platforms**.
+
+
+---
+
+# ✅ Repository Health Check (v2)
+
+This repository includes a lightweight readiness checker for v2 development:
+
+```bash
+python tools_repo_readiness_check.py
+python tools_repo_readiness_check.py --json
+```
+
+It validates required project structure (`README.md`, `src`, `tests`) and reports
+missing items early for maintainability.

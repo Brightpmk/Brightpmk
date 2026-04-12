@@ -75,20 +75,20 @@ https://github.com/Brightpmk/olist-etl-pipeline
 
 ## Olist E-commerce Data Analysis
 
-Exploratory data analysis project focused on **revenue trends, logistics performance, and customer behavior**.
+End-to-end data analysis project on the Olist marketplace dataset, focusing on revenue performance, customer behavior, and delivery operations.
 
 Key highlights:
 
-- Processed **100k+ transaction records**
-- Built analytical datasets using **SQL and Python**
-- Created visualizations to analyze **marketplace performance**
-- Identified revenue concentration patterns across product categories
+- Built a clean data pipeline from raw relational tables to analytical datasets (Python + SQL)
+- Designed order-level KPIs to avoid item-level bias in revenue, reviews, and delivery metrics
+- Analyzed 100k+ transactions to uncover revenue concentration and category performance patterns
+- Developed dashboard-ready outputs for business monitoring and decision-making
 
 Tech stack:
 
-Python · Pandas · SQL · Matplotlib · Jupyter Notebook
+Python · Pandas · SQL · Matplotlib · Power BI
 
-Repository:  
+Repository:
 https://github.com/Brightpmk/Basic_data-analysis-project_00
 
 ---

@@ -116,11 +116,6 @@ Areas I am currently strengthening:
 
 ---
 
-# 📉 GitHub Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brightpmk)
-
----
 
 # 🎯 Long-Term Goal
 

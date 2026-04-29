@@ -8,115 +8,67 @@
   I design structured data workflows using <b>Python</b> and <b>SQL</b>, build <b>ETL pipelines</b>, and develop <b>AI-powered analytics systems</b>.
 </p>
 
----
-
-# 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
-![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-Data%20Apps-red)
-![Plotly](https://img.shields.io/badge/Visualization-Plotly-purple)
-
-Core technologies I work with:
-
-- Python (Pandas, data processing)
-- SQL (CTEs, window functions, analytical queries)
-- PostgreSQL / SQLite
-- ETL pipeline development
-- Relational schema design
-- Interactive analytics applications
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
 ---
 
-# 📊 Featured Projects
+## 🛠 Tech Stack
 
-## AI Analytics Assistant for E-commerce
+**Languages & Databases:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-AI-powered analytics application that converts **natural language questions into SQL queries** and generates charts and business insights.
+**Data Engineering & Analytics:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![ETL](https://img.shields.io/badge/Data%20Engineering-ETL-blueviolet) 
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
-Key highlights:
-
-- Built a **natural-language-to-SQL system using LLMs**
-- Implemented **SQL safety validation**
-- Built an interactive **Streamlit analytics interface**
-- Generated automated **data visualizations and insights**
-
-Tech stack:
-
-Python · PostgreSQL · Streamlit · OpenAI · SQLAlchemy · Plotly
-
-Repository:  
-https://github.com/Brightpmk/ecommerce-ai-analytics-assistant
+**AI & App Development:**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
-## Olist E-commerce ETL Pipeline
+## 🏆 Featured Project
 
-Designed a modular **ETL pipeline** that processes relational e-commerce datasets.
+### [🚀 Olist E-commerce Analytics Platform](https://github.com/Brightpmk/olist-ecommerce-platform)
+*An end-to-end data platform built by unifying ETL, Data Warehousing, and LLM-powered Analytics.*
 
-Key highlights:
+This is my **flagship project** that combines my expertise across the entire data lifecycle. I built a complete data pipeline starting from raw Brazilian e-commerce datasets, culminating in an interactive AI assistant.
 
-- Extracted data from **8 relational datasets (100k+ records)**
-- Performed **data cleaning and validation**
-- Loaded datasets into **SQLite**
-- Built analytical **fact table (`fact_order_item_sales`)**
+**Key Achievements:**
+- 🏗️ **Data Engineering**: Designed a modular **ETL pipeline** to clean, validate, and load 100k+ records from 8 raw CSV files into a unified **PostgreSQL** database.
+- 📊 **Data Analytics**: Modeled a star schema (fact & dimension tables), calculated proper order-level KPIs, and performed RFM customer segmentation.
+- 🤖 **AI Analytics Assistant**: Built a **Streamlit** application integrating **OpenAI LLM** to convert natural language queries into safe SQL, automatically generating insights and **Plotly** visualizations.
 
-Tech stack:
-
-Python · Pandas · SQL · SQLite
-
-Repository:  
-https://github.com/Brightpmk/olist-etl-pipeline
+**Tech Stack**: `Python` · `PostgreSQL` · `Streamlit` · `OpenAI` · `Pandas` · `SQLAlchemy`
 
 ---
 
-## Olist E-commerce Data Analysis
-
-End-to-end data analysis project on the Olist marketplace dataset, focusing on revenue performance, customer behavior, and delivery operations.
-
-Key highlights:
-
-- Built a clean data pipeline from raw relational tables to analytical datasets (Python + SQL)
-- Designed order-level KPIs to avoid item-level bias in revenue, reviews, and delivery metrics
-- Analyzed 100k+ transactions to uncover revenue concentration and category performance patterns
-- Developed dashboard-ready outputs for business monitoring and decision-making
-
-Tech stack:
-
-Python · Pandas · SQL · Matplotlib · Power BI
-
-Repository:
-https://github.com/Brightpmk/Basic_data-analysis-project_00
-
----
-
-# 🔎 Technical Focus
+## 🔎 Technical Focus
 
 Areas I am currently strengthening:
-
-- Advanced SQL querying
+- Advanced SQL querying & Performance optimization
 - Data transformation using Pandas
-- ETL pipeline architecture
-- Relational schema design
-- Backend data workflows
+- ETL pipeline architecture & Incremental loading
+- Relational schema design (Fact & Dimension modeling)
 - AI-assisted analytics systems
 
 ---
 
-# 🚀 Currently Learning
+## 🚀 Currently Learning
 
-- Data warehouse design (fact & dimension modeling)
-- Incremental data loading strategies
-- SQL performance optimization
-- Workflow orchestration concepts (Airflow)
+- Workflow orchestration concepts (Apache Airflow)
 - Cloud fundamentals (AWS / Linux)
 
 ---
 
-
-# 🎯 Long-Term Goal
+## 🎯 Long-Term Goal
 
 To become a **data-focused engineer** capable of designing scalable **data pipelines, analytics systems, and AI-driven data platforms**.

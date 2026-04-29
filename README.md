@@ -52,7 +52,7 @@ I integrated my previous work on data cleaning, strategic analysis, and AI devel
 - 🛡️ **Secure AI Assistant**: Integrated **OpenAI API** with **Streamlit** to convert natural language to SQL, featuring a **safety validation layer** to prevent destructive commands (DROP/DELETE).
 - 📈 **Actionable Insights**: Automated the generation of business KPIs and interactive **Plotly** visualizations directly from chat prompts.
 
-**Tech Stack**: `Python` · `PostgreSQL` · `Streamlit` · `OpenAI` · `SQLAlchemy` · `Pandas` · `Docker`
+**Tech Stack**: `Python` · `PostgreSQL` · `Streamlit` · `OpenAI` · `SQLAlchemy` · `Pandas` 
 
 ---
 

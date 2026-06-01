@@ -27,7 +27,7 @@
 
 - **Languages:** Python (Systems), C++ (DSA), Java (OOP), SQL (Analytics)
 - **Data Engineering & Orchestration:** Apache Airflow, Prefect, dbt, Apache Flink (Streaming)
-- **Data Architecture & Lakehouse:** PostgreSQL, Apache Iceberg v2, Apache Kafka (KRaft), Trino Engine, MinIO S3
+- **Data Architecture & Lakehouse:** PostgreSQL (Catalog JDBC Backend), Apache Iceberg v2 (Merge-on-Read), Apache Kafka (KRaft), Trino Engine, MinIO S3
 - **AI Agent Platform Layer:** OpenAI API, ChromaDB (Vector Semantic Cache), LangChain/LangGraph, Streamlit, Plotly
 - **Governance & Quality:** Salted SHA-256 PII Masking, Schema Validation, Automated Metadata Tracking
 

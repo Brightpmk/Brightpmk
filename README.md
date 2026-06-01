@@ -1,11 +1,11 @@
 <!-- Typing Header -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Thummachart;Data+Engineering+%E2%9C%95+AI+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Thummachart Pugmongkol;Data+Infra+%E2%9C%95+AI+Agent+Architect" />
 </p>
 
 <p align="center">
   <b>Computer Engineering Student at Chulalongkorn University (CEDT)</b> <br>
-  Building secure, governed end-to-end data pipelines and enterprise-grade AI infrastructure.
+  Architecting the end-to-end synergy between high-performance data engines and autonomous agentic systems.
 </p>
 
 <div align="center">
@@ -16,33 +16,36 @@
 ---
 
 ## 💡 Engineering Philosophy & Core Focus
-* **Solid Foundations First:** Prioritizing deep understanding of Data Structures & Algorithms (DSA) and clean Object-Oriented Programming (OOP) over a blind reliance on high-level AI generation tools.
-* **Production-Grade Governance:** Moving beyond simple ETL pipelines by enforcing strict Data Governance (PII Masking, Schema Validations, Least-Privilege Access) across all data architectures.
-* **The Data + AI Convergence:** Actively exploring the intersection of distributed data processing and AI Infrastructure, aiming to build scalable platforms capable of serving high-performance agentic frameworks.
+
+* **Solid Foundations First:** Prioritizing deep mastery of Data Structures & Algorithms (DSA) and OOP. I believe that architecting elite AI systems starts with a strong grasp of how data is structured and manipulated at the code level.
+* **Unified Architectural Ownership:** I don't just build pipelines; I design the entire ecosystem. This means ensuring that the Data Infra (the circulatory system) and the AI Agents (the brain) are architected as a single, secure, and performant unit.
+* **Production-Grade Agency:** Moving beyond simple prompts by engineering robust agentic guardrails—integrating PII masking, AST-based validation, and semantic memory directly into the platform architecture.
 
 ---
 
 ## 🛠️ Unified Tech Stack & Ecosystem
 
-- **Languages:** Python, C++ (Deep DSA Foundations), Java (OOP Principles), SQL
-- **Data Engineering & Orchestration:** Prefect, Apache Airflow, dbt (Analytics Engineering), Apache Flink (PyFlink)
+- **Languages:** Python (Systems & Logic), C++ (DSA), Java (OOP), SQL
+- **Data Engineering & Orchestration:** Apache Airflow, Prefect, dbt, Apache Flink (Streaming)
 - **Data Architecture & Lakehouse:** PostgreSQL, Apache Iceberg v2, Apache Kafka (KRaft), Trino Engine, MinIO S3
-- **Data Governance & Quality:** PII Masking (Salted SHA-256), Input Schema Validation, Automated Metadata Tracking
-- **AI & Frontend Applications:** OpenAI API, ChromaDB (Vector Semantic Cache), Streamlit UI, Plotly
+- **AI Agent Platform Layer:** OpenAI API, ChromaDB (Vector Semantic Cache), LangChain/LangGraph, Streamlit, Plotly
+- **Governance & Quality:** Salted SHA-256 PII Masking, Schema Validation, Automated Metadata Tracking
 
 ---
 
 ## 🏗️ Selected Production Sandboxes
 
-### 🏛️ [Fintech Real-Time Medallion Lakehouse](https://github.com/Brightpmk/fintech-realtime-lakehouse)
-A high-throughput streaming sandbox engineered to process, validate, and secure transaction telemetry in real-time.
-* **Core Mechanisms:** Deployed **PyFlink** event-time windowing with a 3-broker **Kafka** cluster, enforced strict **Data Governance** via streaming-layer Salted SHA-256 PII masking, and implemented periodic compaction to eliminate the "small file problem" over an **Apache Iceberg v2** catalog[cite: 3].
+### 🛒 [Olist Agentic Analytics Platform](https://github.com/Brightpmk/olist-analytics-platform)
+A full-stack architecture transforming traditional e-commerce data into an autonomous BI ecosystem.
+* **Core Mechanisms:** Designed an end-to-end flow where **Prefect** manages data movement while an **AI Analytics Agent** performs reasoning over complex star schemas.
+* **Architectural Focus:** Engineered a sub-0.1s **ChromaDB semantic cache** and an upgraded **AST-based SQL validator** to ensure the agent's decision-making is both high-speed and secure.
 
-### 🛒 [Olist E-commerce Analytics Platform](https://github.com/Brightpmk/olist-ecommerce-platform)
-A production-grade Modern Data Stack (MDS) that transforms raw transactional data into highly-governed conversational BI.
-* **Core Mechanisms:** Automated data workflows with **Prefect**, modeled RFM customer segmentations using **dbt marts**, and built an LLM-powered **AI Analytics Assistant** protected by a read-only SQL security validation layer and a sub-0.1s **ChromaDB semantic cache**[cite: 1].
+### 🏛️ [Fintech Real-Time Medallion Lakehouse](https://github.com/Brightpmk/fintech-realtime-lakehouse)
+A high-throughput streaming architecture providing real-time context for financial AI reasoning.
+* **Core Mechanisms:** Architected a **PyFlink** event-time windowing system over **Kafka** and **Iceberg v2** to provide a consistent "Source of Truth" for downstream agents.
+* **Governance Focus:** Enforced real-time **Data Governance** via Salted SHA-256 masking at the ingestion layer, ensuring privacy is maintained before data enters the AI's reasoning window.
 
 ---
 <div align="center">
-  <i>"Engineered with a relentless focus on data quality, security compliance, and single-source-of-truth architectures."</i>
+  <i>"I don’t just move data to feed AI; I architect the entire system that allows AI to think, act, and scale securely."</i>
 </div>

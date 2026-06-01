@@ -1,6 +1,8 @@
 <!-- Typing Header -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Thummachart Pugmongkol;Data+Engineer+%E2%9C%95+AI+Agent+Architect" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Thummachart+Pugmongkol;Data+Engineer+%7C+AI+Agent+Architect" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">

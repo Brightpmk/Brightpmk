@@ -38,7 +38,7 @@
 A high-throughput streaming sandbox engineered to process, validate, and secure transaction telemetry in real-time.
 * **Core Mechanisms:** Deployed **PyFlink** event-time windowing with a 3-broker **Kafka** cluster, enforced strict **Data Governance** via streaming-layer Salted SHA-256 PII masking, and implemented periodic compaction to eliminate the "small file problem" over an **Apache Iceberg v2** catalog[cite: 3].
 
-### 🛒 [Olist E-commerce Analytics Platform](https://github.com/Brightpmk/olist-analytics-platform)
+### 🛒 [Olist E-commerce Analytics Platform](https://github.com/Brightpmk/olist-ecommerce-platform)
 A production-grade Modern Data Stack (MDS) that transforms raw transactional data into highly-governed conversational BI.
 * **Core Mechanisms:** Automated data workflows with **Prefect**, modeled RFM customer segmentations using **dbt marts**, and built an LLM-powered **AI Analytics Assistant** protected by a read-only SQL security validation layer and a sub-0.1s **ChromaDB semantic cache**[cite: 1].
 

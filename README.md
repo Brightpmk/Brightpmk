@@ -33,11 +33,10 @@
 - **AI Agent Platform Layer:** OpenAI API, ChromaDB (Vector Semantic Cache), LangChain/LangGraph, Streamlit, Plotly
 - **Governance & Quality:** Salted SHA-256 PII Masking, Schema Validation, Automated Metadata Tracking
 
----
 
 ## 🏗️ Selected Production Sandboxes
 
-### 🛒 [Olist Agentic Analytics Platform](https://github.com/Brightpmk/olist-analytics-platform)
+### 🛒 [Olist Agentic Analytics Platform](https://github.com/Brightpmk/olist-ecommerce-platform)
 A full-stack architecture transforming traditional e-commerce data into an autonomous BI ecosystem.
 * **Core Mechanisms:** Designed an end-to-end flow where **Prefect** manages data movement while an **AI Analytics Agent** performs reasoning over complex star schemas.
 * **Architectural Focus:** Engineered a sub-0.1s **ChromaDB semantic cache** and an upgraded **AST-based SQL validator** to ensure the agent's decision-making is both high-speed and secure within DB boundaries.

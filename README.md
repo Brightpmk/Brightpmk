@@ -45,8 +45,3 @@ A full-stack architecture transforming traditional e-commerce data into an auton
 A high-throughput streaming architecture providing real-time context for financial AI reasoning.
 * **Core Mechanisms:** Architected a **PyFlink** event-time windowing system over **Kafka** and **Iceberg v2** to provide a consistent "Source of Truth" for downstream agents.
 * **Governance Focus:** Enforced real-time **Data Governance** via Salted SHA-256 masking at the ingestion layer, ensuring privacy is maintained before data enters the AI's reasoning window.
-
----
-<div align="center">
-  <i>"I don’t just move data to feed AI; I architect the entire system that allows AI to think, act, and scale securely."</i>
-</div>

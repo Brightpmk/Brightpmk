@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** Python, SQL, C++, Java
-- **Data Engineering:** Kafka, PyFlink, Prefect, dbt, Apache Iceberg
+- **Data Engineering:** Kafka, PyFlink, Prefect, dbt, Apache Iceberg, Apache Spark
 - **Databases & Tools:** PostgreSQL, MinIO, Docker, Git
 - **AI & Analytics:** OpenAI API, ChromaDB, Streamlit
 
